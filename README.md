@@ -1,2 +1,2 @@
 # rest-api-node
-server side app with mongoDB connection
+server side JS app
