@@ -1,1 +1,1 @@
-module.exports = "Добрый вечера"
+module.exports = "Доброго вечера"
